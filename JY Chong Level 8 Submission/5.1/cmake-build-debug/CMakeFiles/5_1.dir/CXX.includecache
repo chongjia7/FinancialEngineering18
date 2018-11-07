@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chongjiayoong/Desktop/JY Chong Level 8 Submission/5.1/main.cpp
+boost/math/distributions/normal.hpp
+-
+boost/math/distributions/gamma.hpp
+-
+boost/math/distributions.hpp
+-
+vector
+-
+iostream
+-
+
